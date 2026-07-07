@@ -6,12 +6,14 @@ print("Information and Network Engineering")
 print("Hello Phornphirom you will be success")
 print("I'm hungry")
 print('He ask me "Who got the book?"')
+
 print("I'm good and \"I will do my best\"")
 print('/\\')
 print('\ta\na\ta\ta\n\ta')
 print('''\ta
 a\ta\ta
 \ta''')
+
 print('100.00')
 print('%d' %100)
 print('%d' %100.58)
@@ -35,5 +37,3 @@ print("I'm Phornphirom " + "I'll keep practicing!")
 
 print(1, 1, 2, 3, 5, 8, 13, 21, 34, 55)
 print('%d %d %d %d %d %d %d %d %d %d' %(1,1,2,3,5,8,13,21,34,55))
-
-# 7/7/69
